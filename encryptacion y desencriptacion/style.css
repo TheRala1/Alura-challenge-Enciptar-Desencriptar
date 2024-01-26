@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+
+
+textarea {
+    width: 100%;
+    height: 60px;
+    margin-bottom: 10px;
+}
+.inputText{
+    width: 20px;
+    margin: 10px 10px;
+}
+button {
+    padding: 10px;
+    font-size: 16px;
+}
+.botoncito{
+    border-radius:50px ;
+   margin-bottom: 25px;
+}
+.botoncito:hover{
+    background-color: rgb(82, 76, 76);
+    margin-bottom: 5px ;
+    
+
+}
